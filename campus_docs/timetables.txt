@@ -1,0 +1,25 @@
+DEMO CAMPUS REFERENCE
+This is sample information for development. Replace it with verified campus details before production use.
+
+GENERAL OFFICE HOURS
+Admin Block student services: Monday through Friday, 9:00 AM to 5:00 PM.
+Library: Monday through Friday, 8:00 AM to 8:00 PM; Saturday, 9:00 AM to 5:00 PM; closed Sunday.
+Computer Lab 301: Monday through Friday, 9:00 AM to 5:00 PM, subject to scheduled classes and maintenance.
+
+SAMPLE CLASS PERIODS
+Period 1: 9:00 AM to 10:00 AM
+Period 2: 10:15 AM to 11:15 AM
+Period 3: 11:30 AM to 12:30 PM
+Lunch break: 12:30 PM to 1:30 PM
+Period 4: 1:30 PM to 2:30 PM
+Period 5: 2:45 PM to 3:45 PM
+Period 6: 4:00 PM to 5:00 PM
+
+SAMPLE WEEKLY LAB SESSIONS
+Monday, 10:15 AM to 12:30 PM: IoT practical, Engineering Block Room 204.
+Tuesday, 1:30 PM to 3:45 PM: Computer applications, Computer Lab 301.
+Wednesday, 9:00 AM to 11:15 AM: Chemistry practical, Science Block Room 118.
+Thursday, 1:30 PM to 3:45 PM: Robotics workshop, Engineering Block Room 206.
+Friday, 10:15 AM to 12:30 PM: IoT project session, Engineering Block Room 204.
+
+These sessions are examples only. Confirm current class and room assignments with the relevant department before attending.

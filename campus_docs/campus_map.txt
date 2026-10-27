@@ -1,0 +1,19 @@
+DEMO CAMPUS REFERENCE
+This is sample information for development. Replace it with verified campus details before production use.
+
+CAMPUS ORIENTATION
+The Main Gate is on the north side of campus, facing Campus Road. Visitors should register at the Security Desk beside the gate.
+The Central Courtyard is the main pedestrian landmark and connects the academic buildings.
+
+BUILDINGS AND LOCATIONS
+Admin Block: East of the Central Courtyard. Student Services and the Registrar's Office are on the ground floor.
+Library: West of the Central Courtyard. The main entrance faces the courtyard; quiet study rooms are on the second floor.
+Engineering Block: South of the Central Courtyard. The IoT Lab is in Room 204 and the Robotics Lab is in Room 206.
+Computing Block: Southwest of the Central Courtyard. Computer Lab 301 is on the third floor.
+Science Block: Southeast of the Central Courtyard. The Chemistry Lab is in Room 118.
+Campus Bus Stop: Just inside the Main Gate, on the east side of the entrance road.
+
+WALKING DIRECTIONS
+From the Main Gate, walk south along the entrance road to reach the Central Courtyard.
+From the courtyard, walk east to the Admin Block, west to the Library, south to the Engineering Block, or southeast to the Science Block.
+The Computing Block is southwest of the courtyard, beyond the Engineering Block.

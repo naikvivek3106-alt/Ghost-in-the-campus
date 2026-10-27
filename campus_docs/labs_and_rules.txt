@@ -1,0 +1,22 @@
+DEMO CAMPUS REFERENCE
+This is sample information for development. Replace it with verified campus details before production use.
+
+LAB LOCATIONS AND HOURS
+IoT Lab: Engineering Block, Room 204. Open Monday through Friday, 9:00 AM to 5:00 PM.
+Robotics Lab: Engineering Block, Room 206. Access is by instructor approval and advance booking.
+Computer Lab 301: Computing Block, third floor. Open Monday through Friday, 9:00 AM to 5:00 PM, except during scheduled classes or maintenance.
+Chemistry Lab: Science Block, Room 118. Access is limited to supervised practical sessions.
+
+ACCESS AND CONDUCT
+Carry a valid campus identity card and show it when requested by staff.
+Sign in at the lab desk before using equipment. Follow the instructor's safety briefing and posted procedures.
+Do not eat or drink in laboratories. Keep walkways and emergency exits clear.
+Wear the protective equipment specified for the activity. Do not use damaged equipment; report it to the lab supervisor.
+Do not remove equipment, chemicals, components, or records from a laboratory without written authorization.
+Visitors may enter a laboratory only when accompanied by an authorized staff member.
+Report injuries, spills, equipment failures, or other emergencies to the lab supervisor immediately.
+
+BOOKING
+Book the IoT Lab through the Engineering Department office at least one working day in advance.
+Robotics Lab sessions require instructor approval before the room is reserved.
+Scheduled teaching sessions take priority over open lab use.
